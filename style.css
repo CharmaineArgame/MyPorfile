@@ -37,6 +37,7 @@ img{
     flex-direction: column;
     margin-top: 80px;
     font-size: 100%;
+    color: rgb(51, 46, 40);
 }
 .AboutMe{
     display: flex;
